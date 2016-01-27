@@ -22,6 +22,7 @@ namespace RedisTest
         readonly IList<Locadora.Locacao> locacaoList;
         private readonly Locadora.Locacao Locacao;
 
+        
         //Construtor
         public KeyValue()
         {
