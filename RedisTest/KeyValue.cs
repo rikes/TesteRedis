@@ -13,7 +13,6 @@ namespace RedisTest
         readonly IList<Locadora.Cliente> clientesList;
         private readonly Locadora.Cliente Cliente;
 
-    
         readonly IList<Locadora.Filme> filmesList;
         private readonly Locadora.Filme Filme;
 
